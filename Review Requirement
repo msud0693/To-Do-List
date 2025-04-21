@@ -1,0 +1,11 @@
+First user needs to give an input 
+If it is add a task{
+Addtask()
+
+List of task l = new list of task
+L.add = 'drink water'
+L.add='Study prgramming'
+L.add = 'take out trash'
+L.add = 'Do yoga'
+L.add = 'Cook lunch and dinner'
+L.add = 'Do laundry'
